@@ -1,2 +1,2 @@
 ﻿# tictactoelab
-tic tac toe lab written in C++
+Tic Tac Toe lab, written in C++
